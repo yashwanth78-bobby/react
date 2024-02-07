@@ -1,8 +1,7 @@
-# FULL STACK COURSE 2023
+# REACT
 
   
 
-Hi, This is **CoderDost Youtube Channel** Full Stack Development Course [Course Link ](https://youtube.com/coderdost),
 
   
 
